@@ -49,9 +49,9 @@ namespace Content.ServiceAccount
             //========================================================================
 
             ListProducts(service, 10);
-            //GetProduct(service, "online:en:GB:21325023");
-            //UpdateProduct(service, "online:en:GB:21325023");
-            //DeleteProduct(service, "online:en:GB:21325023");
+            //GetProduct(service, "online:en:GB:0123456789");
+            //UpdateProduct(service, "online:en:GB:0123456789");
+            //DeleteProduct(service, "online:en:GB:0123456789");
             //CreateProduct(service);
 
             Console.WriteLine("Press any key to continue...");
